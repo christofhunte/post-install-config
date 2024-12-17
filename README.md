@@ -43,9 +43,10 @@ I then confingured Teams in the Agents tab such as "Online Banking" and then ena
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9FrYNyx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/K6Flk2m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I then created two new Users (customers) named "Karen" and "Ken". I switched over to the agent panel to perform this action. I then switched back to the Admin panel and went to the SLA section in the "Manage" tab to create three new service level agreements and set different parameters for each."Sev-A" was set to a grace period of 1 hour and had a 24/7 schedule. "Sev-B" had a grace period of four hours and a 24/7 schedule. "Sev-C" had an eight hour grace period and a 25/7 schedule. Finally I went into the Help Topics section in the "Manage" tab and created new topics such as Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset and Other.
 </p>
 <br />
