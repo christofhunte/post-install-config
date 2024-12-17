@@ -26,18 +26,19 @@ This project outlines the post-install configuration of the open-source help des
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fOmiEF3.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CpzZXAy.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After opening the osTicket in the Windows Virtual Machine created from the last project, I logged into the Admin panel and configured all access for a new role I created called "Supreme Admin". I gave this role permissions such as Assign, Close, Create, Delete, Edit etc. I then created a new department called "SysAdmins" and gave it "Top Level Department" status.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aNqVwOh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I then confingured Teams in the Agents tab such as "Online Banking" and then enabled required registration and login for users to create tickets in the user settings. I then created two new agents and assigned one to the "SysAdmins" department and the other to the regular "Support" department. 
 </p>
 <br />
 
